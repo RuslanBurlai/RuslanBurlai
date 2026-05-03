@@ -1,10 +1,10 @@
 # Hello there! 👋 I'm Ruslan
 
-📱 Mobile Developer (Flutter / .NET MAUI / Xamarin)
+Mobile Developer (Flutter / .NET MAUI / Xamarin)
 
 I create mobile applications with a focus on performance and clean architecture.
 
-💼 Over 4 years of experience in mobile development.
+Over 4 years of experience in mobile development.
 
 ## 🛠 Tech Stack
 
@@ -19,7 +19,7 @@ I create mobile applications with a focus on performance and clean architecture.
 
 ## 🚀 Featured Projects
 
-### EntryScanner MAUI
+### EntryScanner
 A mobile app for scanning event tickets using NFC and QR codes.
 
 Tech
